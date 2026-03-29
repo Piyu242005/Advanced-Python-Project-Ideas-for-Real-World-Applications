@@ -1,73 +1,181 @@
-<div align="center" style="padding: 28px 18px; background: linear-gradient(135deg, #0f172a, #111827 45%, #0b1324 80%); color: #e5e7eb; border-radius: 16px;">
-  <h1 style="margin: 8px 0 12px; font-size: 36px;">🚀 Advanced Python Projects</h1>
-  <p style="margin: 0 0 16px; font-size: 17px; max-width: 720px;">
-    A sleek, production-minded collection of real-world Python builds across AI, ML, CV, IoT, and modern system design.
-  </p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 6px;">
-    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" alt="MIT License"/>
-  </div>
-  <p style="margin: 8px 0 0; font-size: 14px; letter-spacing: 0.8px; color: #cbd5e1;">
-    6 builds · 5 domains · Ready to fork, run, and extend
-  </p>
+<div align="center">
+
+<br/>
+
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Advanced%20Python%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Real-World%20Builds%20Across%20AI%20%7C%20ML%20%7C%20CV%20%7C%20IoT%20%7C%20System%20Design&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════ ROYAL BADGE ROW ═══════════════════ -->
+
+[![Python](https://img.shields.io/badge/Python_3.8+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://tensorflow.org)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Piyu242005.Advanced-Python-Project-Ideas-for-Real-World-Applications&style=flat-square&color=7c3aed)
+![Stars](https://img.shields.io/github/stars/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=f59e0b&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=8b5cf6)
+
+<br/>
+
+> **✦ 6 production-grade builds · 5 cutting-edge domains · Fork, run, and extend ✦**
+
+<br/>
+
 </div>
 
 ---
 
-## 🧭 Why This Repo
-- Curated for real-world architectures (data pipelines, async I/O, model serving patterns).
-- Each project is isolated: its own `main.py` and `requirements.txt` to keep dependencies clean.
-- Minimal ceremony: copy, install, run—then iterate with your ideas.
+## ◈ Why This Repository
 
-## 🗂️ Pick Your Playground
-| Project | Domain | Core Stack | What It Shows |
-| :-- | :--: | :--: | :-- |
-| **[🤖 Automated Resume Screening](./Automated_Resume_Screening)** | NLP / AI | `spaCy`, `NLTK`, `scikit-learn` | TF-IDF + cosine similarity to rank resumes against job descriptions. |
-| **[📸 Face Recognition Security](./Face_Recognition_Security)** | Computer Vision | `OpenCV`, `TensorFlow` | Real-time face detection and verification loop. |
-| **[🏠 IoT Home Automation](./IoT_Home_Automation)** | IoT | `MQTT`, `MicroPython` | Publish/subscribe flows for sensors and smart devices. |
-| **[💬 Real-Time Chat App](./RealTime_Chat_App)** | System Design | `WebSockets`, `asyncio` | Low-latency bi-directional messaging backbone. |
-| **[📈 Stock Market Prediction](./Stock_Market_Prediction)** | ML | `pandas`, `NumPy`, `scikit-learn` | Time-series prep and forecasting patterns. |
-| **[🛒 E-commerce Recommendation](./Ecommerce_Recommendation)** | Data Science | `pandas`, `scikit-learn` | User–item similarity with collaborative signals. |
+<table>
+<tr>
+<td width="50%">
 
-## ⚡ Quickstart (2 minutes)
+**🏗️ Real-World Architecture**
+Each project mirrors production patterns — clean data pipelines, async I/O, and model-serving conventions you'd encounter in industry.
+
+</td>
+<td width="50%">
+
+**📦 Zero-Friction Setup**
+Fully isolated: every project ships with its own `main.py` and `requirements.txt`. No dependency collisions. Ever.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚡ Plug & Play**
+Clone → install → run. Each build is designed to be immediately executable, then iteratively extensible.
+
+</td>
+<td width="50%">
+
+**🧠 Learn by Building**
+Not toy examples. Concepts are applied at scale: TF-IDF ranking, real-time WebSockets, pub/sub IoT, collaborative filtering.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Project Constellation
+
+<div align="center">
+
+| &nbsp; | Project | Domain | Core Stack | What It Demonstrates |
+|:---:|:---|:---:|:---:|:---|
+| 🤖 | **[Automated Resume Screening](./Automated_Resume_Screening)** | NLP / AI | `spaCy` · `NLTK` · `scikit-learn` | TF-IDF + cosine similarity to rank resumes against job descriptions |
+| 📸 | **[Face Recognition Security](./Face_Recognition_Security)** | Computer Vision | `OpenCV` · `TensorFlow` | Real-time face detection and identity verification loop |
+| 🏠 | **[IoT Home Automation](./IoT_Home_Automation)** | IoT | `MQTT` · `MicroPython` | Publish/subscribe flows for sensors and smart devices |
+| 💬 | **[Real-Time Chat App](./RealTime_Chat_App)** | System Design | `WebSockets` · `asyncio` | Low-latency bi-directional messaging backbone |
+| 📈 | **[Stock Market Prediction](./Stock_Market_Prediction)** | Machine Learning | `pandas` · `NumPy` · `scikit-learn` | Time-series preprocessing and forecasting patterns |
+| 🛒 | **[E-commerce Recommendation](./Ecommerce_Recommendation)** | Data Science | `pandas` · `scikit-learn` | User–item similarity via collaborative filtering signals |
+
+</div>
+
+---
+
+## ◈ Quickstart — Under 2 Minutes
+
 ```bash
+# 1. Clone the repository
 git clone https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications.git
 cd Advanced-Python-Project-Ideas-for-Real-World-Applications
 
-# pick one project
-cd Automated_Resume_Screening  # or any folder above
+# 2. Choose your project
+cd Automated_Resume_Screening   # swap with any folder above
 
-# create a virtual env (recommended)
-python -m venv .venv && .venv\Scripts\activate  # Windows
-# source .venv/bin/activate                       # macOS/Linux
+# 3. Create an isolated virtual environment
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # macOS / Linux
 
+# 4. Install and launch
 pip install -r requirements.txt
 python main.py
 ```
 
-## 🧩 Tech Stack Highlights
-- Data/ML: `pandas`, `NumPy`, `scikit-learn`
-- NLP: `spaCy`, `NLTK`
-- CV: `OpenCV`, `TensorFlow`
-- Realtime/IoT: `WebSockets`, `asyncio`, `MQTT`
+---
 
-## 🛠️ Run Cheatsheet
-- Switch projects fast: `cd <project_name>`
-- Freeze dependencies after tweaks: `pip freeze > requirements.txt`
-- Lint (optional if installed): `ruff check .` or `flake8 .`
+## ◈ Full Technology Matrix
 
-## 🗺️ Repo Map
-- Root overview: this README + per-project folders
-- Per project: `main.py` (entry), `README.md` (concept), `requirements.txt` (deps)
-- No shared state: edit one project without breaking the rest
+<div align="center">
 
-## 📄 License
-MIT License. Fork freely and build.
+| Layer | Libraries |
+|:---|:---|
+| **Data & ML** | `pandas` · `NumPy` · `scikit-learn` |
+| **NLP** | `spaCy` · `NLTK` |
+| **Computer Vision** | `OpenCV` · `TensorFlow` |
+| **Real-Time / IoT** | `WebSockets` · `asyncio` · `MQTT` |
 
-<div align="center" style="margin-top: 14px; font-weight: 600;">
-  Made with ❤️ by <a href="https://github.com/Piyu242005">Piyu</a>
+</div>
+
+---
+
+## ◈ Developer Cheatsheet
+
+```bash
+# Navigate between projects instantly
+cd <project_name>
+
+# Freeze dependencies after adding packages
+pip freeze > requirements.txt
+
+# Lint for clean code (optional)
+ruff check .        # preferred
+# or
+flake8 .
+```
+
+---
+
+## ◈ Repository Architecture
+
+```
+Advanced-Python-Project-Ideas/
+│
+├── Automated_Resume_Screening/   → NLP pipeline & ranking
+├── Face_Recognition_Security/    → CV detection & verification
+├── IoT_Home_Automation/          → MQTT sensor flows
+├── RealTime_Chat_App/            → async WebSocket server
+├── Stock_Market_Prediction/      → time-series ML
+└── Ecommerce_Recommendation/     → collaborative filtering
+    │
+    └── (each contains)
+          ├── main.py             ← entry point
+          ├── README.md           ← concept & usage
+          └── requirements.txt    ← isolated deps
+```
+
+> **Zero shared state** — edit any project freely without touching the rest.
+
+---
+
+## ◈ License
+
+Distributed under the **MIT License**. You are free to fork, modify, and build upon this work — commercially or otherwise.  
+See [`LICENSE`](./LICENSE) for the full text.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+**Crafted with precision by [Piyu](https://github.com/Piyu242005)**
+
+*If this repo added value to your work, a ⭐ star is always appreciated.*
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyu242005)
+
 </div>
