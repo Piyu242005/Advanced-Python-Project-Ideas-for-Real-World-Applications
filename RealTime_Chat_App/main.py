@@ -142,12 +142,12 @@ async def demo_conversation():
     print("═" * 55)
 
     uri = f"ws://{HOST}:{PORT}"
-    msgs_alice = [
+    msgs_piyush = [
         {"type": "chat", "text": "Hey everyone! 👋"},
         {"type": "chat", "text": "Anyone working on ML projects?"},
         {"type": "chat", "text": "Just finished a TF-IDF resume screener!"},
     ]
-    msgs_bob = [
+    msgs_tippsy = [
         {"type": "chat", "text": "Hi Piyush! 🤗"},
         {"type": "chat", "text": "That sounds awesome — share the repo?"},
     ]
