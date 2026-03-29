@@ -23,7 +23,7 @@ except ImportError:
 
 
 # ── Configuration ───────────────────────────────────────────────────────────
-KNOWN_LABELS = {0: "Piyush", 1: "Tippsy", 2: "Carol"}   # id → name
+KNOWN_LABELS = {0: "Piyush", 1: "Tippsy", 2: "Suchak"}   # id → name
 CONFIDENCE_THRESHOLD = 65       # lower = stricter (LBPH)
 CASCADE_PATH = cv2.data.haarcascades + "haarcascade_frontalface_default.xml" if OPENCV_AVAILABLE else ""
 

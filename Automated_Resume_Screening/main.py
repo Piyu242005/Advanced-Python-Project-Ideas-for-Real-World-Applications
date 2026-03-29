@@ -25,15 +25,15 @@ RESUMES = {
         Front-end developer experienced in React, JavaScript, HTML and CSS.
         Some Python scripting knowledge. No machine learning background.
     """,
-    "Carol": """
+    "Suchak": """
         Data scientist with expertise in machine learning, TensorFlow, pandas,
         and NumPy. Published research in NLP. Comfortable with Python and Git.
     """,
-    "Dave": """
+    "Nikhil": """
         Java backend developer with Spring Boot. Limited Python experience.
         Worked with SQL databases and REST APIs extensively.
     """,
-    "Eva": """
+    "Riya": """
         Full-stack Python developer. Uses Flask, scikit-learn, pandas, and NumPy
         daily. Strong SQL skills, active Git user, builds data pipelines.
     """,

@@ -22,7 +22,7 @@ DATA = {
     "Pen Set":    [0, 0, 0, 0, 5, 5],
     "Backpack":   [0, 0, 0, 0, 4, 3],
 }
-USERS = ["Piyush", "Tippsy", "Carol", "Dave", "Eva", "Frank"]
+USERS = ["Piyush", "Tippsy", "Suchak", "Nikhil", "Riya", "Frank"]
 
 ratings_df = pd.DataFrame(DATA, index=USERS)
 
