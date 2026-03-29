@@ -1,250 +1,258 @@
 <div align="center">
 
-<br/>
-
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Advanced%20Python%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Real-World%20Builds%20Across%20AI%20%7C%20ML%20%7C%20CV%20%7C%20IoT%20%7C%20System%20Design&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════ ROYAL BADGE ROW ═══════════════════ -->
-
-[![Python](https://img.shields.io/badge/Python_3.8+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![WebSockets](https://img.shields.io/badge/WebSockets-asyncio-informational?style=for-the-badge&logo=python&logoColor=white)](https://websockets.readthedocs.io)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-
-<br/>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Piyu242005.Advanced-Python-Project-Ideas-for-Real-World-Applications&style=flat-square&color=7c3aed)
-![Stars](https://img.shields.io/github/stars/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=f59e0b&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=8b5cf6)
-
-<br/>
-
-> **✦ 6 production-grade builds · 5 cutting-edge domains · All verified & runnable ✦**
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4f46e5&height=250&section=header&text=Advanced%20Python%20Projects&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=6%20Production-Grade%20Builds%20%E2%80%A2%20All%20Verified%20%26%20Runnable&descAlignY=60&descSize=18&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 </div>
 
----
-
-## ◈ Why This Repository
-
-<table>
-<tr>
-<td width="50%">
-
-**🏗️ Real-World Architecture**
-Each project mirrors production patterns — TF-IDF pipelines, async WebSocket servers, LBPH face recognizers, collaborative filters, and time-series ML models.
-
-</td>
-<td width="50%">
-
-**📦 Zero-Friction Setup**
-Fully isolated: every project ships with its own `main.py` and `requirements.txt`. No dependency collisions. Ever.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚡ Plug & Play**
-Clone → install → run. Every project is immediately executable with a single `python main.py` command.
-
-</td>
-<td width="50%">
-
-**✅ All 6 Verified**
-Every project has been tested end-to-end and produces real, meaningful output — not placeholder stubs.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ Project Constellation
+<br/>
 
 <div align="center">
 
-| &nbsp; | Project | Domain | Core Stack | Verified Output |
-|:---:|:---|:---:|:---:|:---|
-| 🤖 | **[Automated Resume Screening](./Automated_Resume_Screening)** | NLP / AI | `scikit-learn` · `NLTK` · `spaCy` | Ranks candidates by TF-IDF cosine similarity — Piyush scored #1 |
-| 🛒 | **[E-commerce Recommendation](./Ecommerce_Recommendation)** | Data Science | `pandas` · `NumPy` · `scikit-learn` | Top-3 personalized recs per user via collaborative filtering |
-| 🏠 | **[IoT Home Automation](./IoT_Home_Automation)** | IoT | `asyncio` · `MQTT`-style pub/sub | Temp/motion/door sensors → smart lights & thermostat automation |
-| 📈 | **[Stock Market Prediction](./Stock_Market_Prediction)** | Machine Learning | `pandas` · `NumPy` · `scikit-learn` | Random Forest R² = 0.874 · Linear Regression R² = 0.886 |
-| 📸 | **[Face Recognition Security](./Face_Recognition_Security)** | Computer Vision | `OpenCV` · LBPH Recognizer | Real-time face detect & verify — ACCESS GRANTED/DENIED |
-| 💬 | **[Real-Time Chat App](./RealTime_Chat_App)** | System Design | `websockets` · `asyncio` | Multi-room WebSocket server with rename, join, broadcast |
+[![Python](https://img.shields.io/badge/Python%203.14-FFD43B?style=flat-square&logo=python&logoColor=306998)](https://python.org)&nbsp;
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)&nbsp;
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org)&nbsp;
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)](https://websockets.readthedocs.io)&nbsp;
+[![Pandas](https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)&nbsp;
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)&nbsp;
+[![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
 </div>
 
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Piyu242005&label=Profile+Views&color=7c3aed&style=flat-square)&nbsp;
+[![Stars](https://img.shields.io/github/stars/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=f59e0b&logo=github&label=Stars)](https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications/stargazers)&nbsp;
+[![Forks](https://img.shields.io/github/forks/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=8b5cf6&logo=github&label=Forks)](https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications/network)&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications?style=flat-square&color=ec4899&logo=git&logoColor=white)](https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications/commits)
+
+</div>
+
+<br/>
+
 ---
 
-## ◈ Quickstart — Under 2 Minutes
+<br/>
+
+## `$ whoami`
+
+> A curated collection of **6 fully implemented, production-inspired Python projects** spanning AI, ML, Computer Vision, IoT, and System Design — built to be immediately runnable, easily extensible, and genuinely educational.
+
+<br/>
+
+## `$ ls -la projects/`
+
+<br/>
+
+<div align="center">
+<table>
+<thead>
+<tr>
+<th align="center">⚡</th>
+<th align="left">Project</th>
+<th align="center">Domain</th>
+<th align="left">Stack</th>
+<th align="left">Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>01</b></td>
+<td><a href="./Automated_Resume_Screening"><b>🤖 Resume Screening</b></a></td>
+<td align="center"><code>NLP</code></td>
+<td><code>scikit-learn</code> <code>NLTK</code> <code>spaCy</code></td>
+<td>TF-IDF cosine ranking — Piyush ranked #1</td>
+</tr>
+<tr>
+<td align="center"><b>02</b></td>
+<td><a href="./Ecommerce_Recommendation"><b>🛒 Recommendation Engine</b></a></td>
+<td align="center"><code>Data Science</code></td>
+<td><code>pandas</code> <code>NumPy</code> <code>scikit-learn</code></td>
+<td>Collaborative filtering with star ratings</td>
+</tr>
+<tr>
+<td align="center"><b>03</b></td>
+<td><a href="./IoT_Home_Automation"><b>🏠 IoT Home Automation</b></a></td>
+<td align="center"><code>IoT</code></td>
+<td><code>asyncio</code> <code>pub/sub</code></td>
+<td>Sensors → smart lights & thermostat rules</td>
+</tr>
+<tr>
+<td align="center"><b>04</b></td>
+<td><a href="./Stock_Market_Prediction"><b>📈 Stock Prediction</b></a></td>
+<td align="center"><code>ML</code></td>
+<td><code>pandas</code> <code>NumPy</code> <code>scikit-learn</code></td>
+<td>RF R²=0.874 · LinReg R²=0.886</td>
+</tr>
+<tr>
+<td align="center"><b>05</b></td>
+<td><a href="./Face_Recognition_Security"><b>📸 Face Recognition</b></a></td>
+<td align="center"><code>CV</code></td>
+<td><code>OpenCV</code> <code>LBPH</code> <code>Haar Cascade</code></td>
+<td>Real-time detect → ACCESS GRANTED/DENIED</td>
+</tr>
+<tr>
+<td align="center"><b>06</b></td>
+<td><a href="./RealTime_Chat_App"><b>💬 Real-Time Chat</b></a></td>
+<td align="center"><code>System Design</code></td>
+<td><code>websockets</code> <code>asyncio</code> <code>JSON</code></td>
+<td>Multi-room WS server + built-in demo client</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ python quickstart.py`
 
 ```bash
-# 1. Clone the repository
+# Clone
 git clone https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications.git
 cd Advanced-Python-Project-Ideas-for-Real-World-Applications
 
-# 2. Choose your project
-cd Automated_Resume_Screening   # swap with any folder above
+# Pick a project & set up an isolated environment
+cd Automated_Resume_Screening
+python -m venv .venv && .venv\Scripts\activate    # Windows
+# source .venv/bin/activate                       # macOS/Linux
 
-# 3. Create an isolated virtual environment
-python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS / Linux
-
-# 4. Install and launch
+# Install deps and run
 pip install -r requirements.txt
 python main.py
 ```
 
-> **💡 Tip:** `Face_Recognition_Security` and `RealTime_Chat_App` support a `--demo` flag that runs without a webcam or browser client:
+> **💡 Pro tip** — Projects `05` and `06` support `--demo` mode (no webcam or browser client needed):
 > ```bash
 > python main.py --demo
 > ```
 
----
-
-## ◈ Project Deep Dives
-
-<details>
-<summary><b>🤖 Automated Resume Screening</b></summary>
-
-**What it does:** Vectorizes a job description and a pool of resumes using TF-IDF, then ranks candidates by cosine similarity — no fine-tuned model or API key needed.
-
-**Key techniques:** `TfidfVectorizer`, `cosine_similarity`, stop-word filtering  
-**Run:** `python main.py`  
-**Dependencies:** `scikit-learn`, `nltk`, `spacy`
-</details>
-
-<details>
-<summary><b>🛒 E-commerce Recommendation</b></summary>
-
-**What it does:** Builds a user-item rating matrix, computes cosine similarity between users, and predicts weighted ratings for unrated products.
-
-**Key techniques:** Collaborative filtering, user-item matrix, weighted scoring  
-**Run:** `python main.py`  
-**Dependencies:** `pandas`, `numpy`, `scikit-learn`
-</details>
-
-<details>
-<summary><b>🏠 IoT Home Automation</b></summary>
-
-**What it does:** Simulates an MQTT-style pub/sub event system with temperature sensors, PIR motion detectors, and door sensors wired to smart device automation rules — all via Python `asyncio`.
-
-**Key techniques:** `asyncio.gather`, pub/sub broker, async event handlers  
-**Run:** `python main.py`  
-**Dependencies:** stdlib only (`asyncio`)
-</details>
-
-<details>
-<summary><b>📈 Stock Market Prediction</b></summary>
-
-**What it does:** Generates synthetic OHLCV time-series via Geometric Brownian Motion, engineers 17 features (SMA, EMA, MACD, RSI, volatility, momentum), then trains Linear Regression and Random Forest side-by-side.
-
-**Key techniques:** Feature engineering, `RandomForestRegressor`, `StandardScaler`, train/test split  
-**Run:** `python main.py`  
-**Dependencies:** `pandas`, `numpy`, `scikit-learn`
-</details>
-
-<details>
-<summary><b>📸 Face Recognition Security</b></summary>
-
-**What it does:** Uses OpenCV Haar Cascade for face detection and the LBPH face recognizer for identity verification. Supports live webcam mode or `--demo` mode with synthetic training data.
-
-**Key techniques:** `CascadeClassifier`, `LBPHFaceRecognizer`, confidence thresholding  
-**Run:** `python main.py --demo` (no webcam) or `python main.py` (live)  
-**Dependencies:** `opencv-python`, `opencv-contrib-python`, `numpy`
-</details>
-
-<details>
-<summary><b>💬 Real-Time Chat App</b></summary>
-
-**What it does:** Fully functional multi-room WebSocket chat server. Supports join, leave, rename, and broadcast events via JSON message protocol. Ships with a `--demo` flag that simulates a live conversation without a browser client.
-
-**Key techniques:** `websockets`, `asyncio`, JSON message protocol, room management  
-**Run:** `python main.py --demo` or `python main.py` (starts server on `ws://localhost:8765`)  
-**Dependencies:** `websockets`
-</details>
+<br/>
 
 ---
 
-## ◈ Full Technology Matrix
+<br/>
 
-<div align="center">
+## `$ cat architecture.tree`
 
-| Layer | Libraries |
-|:---|:---|
-| **Data & ML** | `pandas` · `NumPy` · `scikit-learn` · `RandomForest` · `LinearRegression` |
-| **NLP** | `spaCy` · `NLTK` · `TfidfVectorizer` · `cosine_similarity` |
-| **Computer Vision** | `OpenCV` · `Haar Cascade` · `LBPH Face Recognizer` |
-| **Real-Time / IoT** | `WebSockets` · `asyncio` · MQTT pub/sub pattern |
+```
+📦 Advanced-Python-Projects/
+│
+├── 🤖 Automated_Resume_Screening/
+│   ├── main.py            ← TF-IDF + cosine similarity pipeline
+│   ├── requirements.txt   ← scikit-learn, nltk, spacy
+│   └── README.md
+│
+├── 🛒 Ecommerce_Recommendation/
+│   ├── main.py            ← User-item collaborative filtering
+│   ├── requirements.txt   ← pandas, numpy, scikit-learn
+│   └── README.md
+│
+├── 🏠 IoT_Home_Automation/
+│   ├── main.py            ← Async pub/sub broker (stdlib only)
+│   ├── requirements.txt   ← (no external deps)
+│   └── README.md
+│
+├── 📈 Stock_Market_Prediction/
+│   ├── main.py            ← GBM data + 17 features + RF vs LinReg
+│   ├── requirements.txt   ← pandas, numpy, scikit-learn
+│   └── README.md
+│
+├── 📸 Face_Recognition_Security/
+│   ├── main.py            ← Haar Cascade + LBPH recognizer
+│   ├── requirements.txt   ← opencv-python, opencv-contrib-python
+│   └── README.md
+│
+└── 💬 RealTime_Chat_App/
+    ├── main.py            ← WebSocket server + async demo client
+    ├── requirements.txt   ← websockets
+    └── README.md
+```
 
-</div>
+<br/>
 
 ---
 
-## ◈ Developer Cheatsheet
+<br/>
+
+## `$ cat tech_matrix.json`
+
+```json
+{
+  "data_and_ml"  : ["pandas", "NumPy", "scikit-learn", "RandomForest", "LinearRegression"],
+  "nlp"          : ["spaCy", "NLTK", "TfidfVectorizer", "cosine_similarity"],
+  "computer_vision": ["OpenCV", "Haar Cascade", "LBPH Face Recognizer"],
+  "realtime_iot" : ["WebSockets", "asyncio", "pub/sub pattern", "MQTT-ready"]
+}
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `$ cat cheatsheet.sh`
 
 ```bash
-# Navigate between projects instantly
+# Switch project instantly
 cd <project_name>
 
-# Freeze dependencies after adding packages
+# Freeze deps after adding packages
 pip freeze > requirements.txt
 
-# Lint for clean code (optional)
-ruff check .        # preferred
-# or
+# Lint (pick one)
+ruff check .
 flake8 .
+
+# Run demo modes (no hardware/browser needed)
+python Face_Recognition_Security/main.py --demo
+python RealTime_Chat_App/main.py --demo
 ```
+
+<br/>
 
 ---
 
-## ◈ Repository Architecture
+<br/>
 
-```
-Advanced-Python-Project-Ideas/
-│
-├── Automated_Resume_Screening/   → TF-IDF NLP ranking pipeline
-├── Ecommerce_Recommendation/     → collaborative filtering engine
-├── IoT_Home_Automation/          → asyncio pub/sub sensor simulator
-├── RealTime_Chat_App/            → WebSocket multi-room chat server
-├── Stock_Market_Prediction/      → time-series ML with feature engineering
-└── Face_Recognition_Security/    → OpenCV Haar + LBPH face verifier
-    │
-    └── (each contains)
-          ├── main.py             ← full working implementation
-          ├── README.md           ← concept & usage
-          └── requirements.txt    ← isolated, pinned deps
-```
+## `$ cat contributing.md`
 
-> **Zero shared state** — edit any project freely without touching the rest.
+All 6 projects are **zero shared state** — edit one without breaking any other. Want to contribute?
+
+1. **Fork** the repo
+2. **Create** a feature branch: `git checkout -b feat/your-idea`
+3. **Commit** your changes: `git commit -m "feat: add your feature"`
+4. **Push** and open a **Pull Request**
+
+<br/>
 
 ---
 
-## ◈ License
+<br/>
 
-Distributed under the **MIT License**. You are free to fork, modify, and build upon this work — commercially or otherwise.  
-See [`LICENSE`](./LICENSE) for the full text.
+## `$ cat license.txt`
+
+```
+MIT License — free to fork, modify, and build upon commercially or otherwise.
+```
+
+<br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=140&section=footer&text=Built%20by%20Piyush&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
-**Crafted with precision by [Piyu](https://github.com/Piyu242005)**
+<br/>
 
-*All 6 projects implemented, tested, and verified. If this repo added value to your work, a ⭐ star is always appreciated.*
+[![GitHub](https://img.shields.io/badge/@Piyu242005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyu242005)
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyu242005)
+**If this saved you time, a** ⭐ **means the world.**
 
 </div>
