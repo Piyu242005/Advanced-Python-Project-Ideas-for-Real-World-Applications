@@ -1,1 +1,3 @@
-# Add dependencies here
+# asyncio is part of Python stdlib — no extra packages needed for simulation.
+# For real MQTT hardware deployment, uncomment:
+# paho-mqtt>=1.6.1
