@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4f46e5&height=230&section=header&text=Advanced%20Python%20Projects&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=6%20Real-World%20Python%20Builds%20%E2%80%94%20All%20Verified%20%26%20Runnable&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Advanced%20Python%20Projects&fontSize=50&fontColor=e0d7ff&fontAlignY=45&desc=6%20Real-World%20Python%20Builds%20%7C%20All%20Verified%20%7C%20Fully%20Runnable&descAlignY=65&descSize=16&fontAlign=50&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -139,7 +139,7 @@ This project is licensed under the **MIT License** — free to use, fork, and bu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=130&section=footer&text=Built%20by%20Piyush&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Built%20by%20Piyush&fontSize=22&fontColor=e0d7ff&fontAlignY=70&fontAlign=50" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/Follow%20%40Piyu242005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyu242005)
 
