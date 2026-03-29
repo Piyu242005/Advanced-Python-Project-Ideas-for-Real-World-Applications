@@ -1,9 +1,25 @@
-# RealTime_Chat_App
+# 💬 Real-Time Chat Application
 
-Highly scalable, end-to-end encrypted distributed messaging platform with integrated GenAI assistants and WebRTC media streaming.
+## Purpose
+A multi-room WebSocket chat server where multiple users can connect, send messages, change names, and switch rooms — all in real time.
 
-## Features
-- **Scalable Real-Time Event Bus:** Uses WebSockets powered by Redis Pub/Sub, Kafka, and async gRPC microservices to support millions of concurrent connections.
-- **End-to-End Encryption (E2EE):** Implements modern cryptographic protocols (like the Signal Protocol) ensuring absolute privacy for text and media payloads.
-- **AI Agent Integration:** Seamless hooks into multi-modal LLM agents for live language translation, sentiment moderation, and smart replies.
-- **Rich Media & WebRTC:** High-performance, peer-to-peer audio and video streaming with intelligent bandwidth adaptation.
+## Use Case
+Learning WebSocket-based system design, building the backbone of a chat app, or prototyping any real-time event-driven feature.
+
+## Tech Used
+| Library | Role |
+|:---|:---|
+| `websockets` | Async WebSocket server handling client connections |
+| `asyncio` | Concurrent handling of multiple users without threads |
+| `json` | Message protocol (event, text, room, timestamp) |
+
+## Run
+```bash
+pip install -r requirements.txt
+
+# Start server (connects on ws://localhost:8765)
+python main.py
+
+# Demo mode — simulates a conversation without a browser
+python main.py --demo
+```

@@ -1,9 +1,20 @@
-# Automated_Resume_Screening
+# 🤖 Automated Resume Screening
 
-Advanced AI-driven resume parsing and candidate ranking system utilizing Large Language Models (LLMs) and Vector Databases for semantic skill matching.
+## Purpose
+Automatically rank job applicants by how well their resume matches a given job description — saving manual review time.
 
-## Features
-- **Semantic Search:** Uses vector embeddings (Pinecone/Milvus) to match candidates with job descriptions based on context rather than just keyword matching.
-- **LLM Information Extraction:** Leverages fine-tuned transformer models (like RoBERTa or domain-specific LLMs) to accurately extract complex work history and education.
-- **Bias Mitigation:** Implementing fair-AI checks and anonymization preprocessing to ensure equitable screening.
-- **Scalable Architecture:** Built with modern async frameworks (FastAPI) and Celery for distributed document processing.
+## Use Case
+HR teams or hiring tools that need to shortlist candidates fast from a large pool of resumes.
+
+## Tech Used
+| Library | Role |
+|:---|:---|
+| `scikit-learn` | TF-IDF vectorization + cosine similarity scoring |
+| `NLTK` | Text tokenization and preprocessing |
+| `spaCy` | NLP pipeline support |
+
+## Run
+```bash
+pip install -r requirements.txt
+python main.py
+```

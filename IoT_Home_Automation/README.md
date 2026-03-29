@@ -1,9 +1,21 @@
-# IoT_Home_Automation
+# 🏠 IoT Home Automation
 
-Autonomous predictive smart-home ecosystem anchored by Edge AI, distributed computing, and a zero-trust network architecutre.
+## Purpose
+Simulate a smart home system where sensors publish events and devices respond automatically — all using Python's built-in async tools.
 
-## Features
-- **Predictive Automation:** Uses continuous telemetry data and reinforcement learning to anticipate user needs and optimize energy consumption autonomously.
-- **High-Throughput Messaging:** Employs advanced MQTT brokers and edge-based temporal databases for millisecond-latency sensor data aggregation.
-- **Zero-Trust Security:** Implements mutual TLS (mTLS) device provisioning and continuous hardware-level authentication to prevent network intrusion.
-- **Voice-to-Intent AI:** Natural language parsing powered by local LLMs to seamlessly translate complex verbal commands into orchestrated multi-device actions.
+## Use Case
+Learning and prototyping IoT pub/sub flows (MQTT-style) without needing real hardware or a broker.
+
+## Tech Used
+| Tool | Role |
+|:---|:---|
+| `asyncio` | Async event loop powering the pub/sub broker |
+| `MQTT pattern` | Publish/subscribe topic routing (simulated in-memory) |
+| Python stdlib only | No external packages required |
+
+## Run
+```bash
+python main.py
+```
+
+> Sensors fire every 1–2 seconds. Smart lights, thermostat, and security alerts respond in real time.

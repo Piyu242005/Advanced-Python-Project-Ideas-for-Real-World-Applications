@@ -1,9 +1,22 @@
-# Stock_Market_Prediction
+# 📈 Stock Market Prediction
 
-Advanced time-series forecasting utilizing modern deep learning architectures (Transformers & LSTMs) combined with LLM-driven sentiment analysis (FinBERT) for real-time market trend prediction. 
+## Purpose
+Predict the next day's closing stock price using machine learning models trained on engineered time-series features.
 
-## Features
-- **Deep Learning Models:** Transformer-based time-series forecasting alongside traditional LSTMs.
-- **Sentiment Analysis:** Real-time financial news parsing using large language models.
-- **Data Processing:** Robust pipelines using Pandas, NumPy, and yfinance.
-- **Dashboard:** Interactive web interface for visualizing predictions.
+## Use Case
+Algorithmic trading research, financial data science experiments, or learning ML on real-world style datasets.
+
+## Tech Used
+| Library | Role |
+|:---|:---|
+| `pandas` | Data generation, feature engineering (SMA, EMA, RSI, MACD) |
+| `NumPy` | Numerical computation and Geometric Brownian Motion simulation |
+| `scikit-learn` | Linear Regression + Random Forest models, train/test split, scaling |
+
+## Run
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+> Outputs model accuracy (MAE, RMSE, R²) and top feature importances side by side.

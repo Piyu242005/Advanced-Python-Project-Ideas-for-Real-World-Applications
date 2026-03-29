@@ -1,9 +1,20 @@
-# Ecommerce_Recommendation
+# 🛒 E-commerce Recommendation Engine
 
-Next-generation personalized recommendation engine utilizing Graph Neural Networks (GNNs) and deep session-based contextual filtering.
+## Purpose
+Suggest products to users based on what similar users have bought or rated highly.
 
-## Features
-- **Deep Learning Pipelines:** Replaces traditional matrix factorization with advanced Two-Tower Deep Neural Networks and Factorization Machines.
-- **Real-Time Processing:** Incorporates Apache Kafka for streaming real-time user-item interactions to update recommendations on-the-fly.
-- **Graph-Based Relationships:** Models users, products, and categories as a knowledge graph to infer latent complex preferences.
-- **Cold-Start Optimization:** Uses zero-shot learning frameworks and rich metadata embeddings to accurately recommend items for brand-new users.
+## Use Case
+Online stores that want to show personalised "You might also like" recommendations to increase sales.
+
+## Tech Used
+| Library | Role |
+|:---|:---|
+| `pandas` | Building and managing the user-item rating matrix |
+| `NumPy` | Numerical operations for similarity scoring |
+| `scikit-learn` | Cosine similarity to find like-minded users |
+
+## Run
+```bash
+pip install -r requirements.txt
+python main.py
+```

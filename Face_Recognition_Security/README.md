@@ -1,9 +1,25 @@
-# Face_Recognition_Security
+# 📸 Face Recognition Security System
 
-Enterprise-grade biometric security system featuring advanced anti-spoofing, 3D face liveness detection, and distributed edge processing.
+## Purpose
+Detect human faces in a video stream and verify their identity — granting or denying access based on confidence score.
 
-## Features
-- **Liveness Detection:** Incorporates deep learning models to detect presentation attacks (spoofing via photos, screens, or masks).
-- **State-of-the-Art Encoders:** Utilizes advanced architectures (like ArcFace, ElasticFace) for high-accuracy embeddings even in varied lighting.
-- **Edge Deployment:** Highly optimized inference pipelines using ONNX and TensorRT for low-latency execution on edge devices.
-- **Distributed Alert Engine:** Asynchronous event-driven architecture to instantly trigger physical security protocols and alert dashboards upon unauthorized entry.
+## Use Case
+Door access control, attendance systems, or any security application that needs real-time face-based authentication.
+
+## Tech Used
+| Library | Role |
+|:---|:---|
+| `OpenCV` | Live webcam capture + Haar Cascade face detection |
+| `opencv-contrib-python` | LBPH face recognizer for identity matching |
+| `NumPy` | Image array manipulation |
+
+## Run
+```bash
+pip install -r requirements.txt
+
+# Webcam mode (live)
+python main.py
+
+# Demo mode (no webcam needed)
+python main.py --demo
+```
